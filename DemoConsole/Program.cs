@@ -7,6 +7,7 @@ namespace DemoConsole
 {
     class Program
     {
+        //edit code here.....
         //viết ở đây
         public static void NhanVien(string hoten, int lcb, float hsl = 2f)
         {
